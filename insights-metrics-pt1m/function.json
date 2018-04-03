@@ -5,7 +5,7 @@
       "name": "messages",
       "direction": "in",
       "path": "insights-metrics-pt1m",
-      "connection": "golive"
+      "connection": "Endpoint=sb://eventhubdemosplunk-ns.servicebus.windows.net/;SharedAccessKeyName=function-acces;SharedAccessKey=ciWx6VYc/GmMUFGVy5/fdUniG+sECu3dLXEBVticYIE=;EntityPath=splunk"
     }
   ],
   "disabled": true

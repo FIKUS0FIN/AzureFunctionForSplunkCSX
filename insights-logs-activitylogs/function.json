@@ -5,7 +5,7 @@
       "name": "messages",
       "direction": "in",
       "path": "insights-logs-activitylogs",
-      "connection": "sbConnectionGolive"
+      "connection": "Endpoint=sb://eventhubdemosplunk-ns.servicebus.windows.net/;SharedAccessKeyName=function-acces;SharedAccessKey=ciWx6VYc/GmMUFGVy5/fdUniG+sECu3dLXEBVticYIE=;EntityPath=splunk"
     }
   ],
   "disabled": false
